@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, Myself Yash</h1>
+<h1 align="center">Hii 👋, I am Yash</h1>
 <h3 align="center">Sophomore at Indian Institute of Technology (BHU), Varanasi. Machine Learning and Data Science enthusiast. Exploring the world of programming with a knack of learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-shimpi&label=Profile%20views&color=0e75b6&style=flat" alt="yash-shimpi" /> </p>
 <h3 align="left">Connect with me:</h3>
